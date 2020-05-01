@@ -1,3 +1,4 @@
+#Function to output Fibonacci sequence of a given number.
 def fibonacci_series():
     a, b = 0, 1
     n = int(input('Enter a number: '))
